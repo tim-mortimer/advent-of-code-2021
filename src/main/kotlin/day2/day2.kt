@@ -46,7 +46,7 @@ fun main() {
             }
 
         val (horizontal, vertical) = endPositionAndAim.position
-        return horizontal * vertical;
+        return horizontal * vertical
     }
 
     println(part1())
